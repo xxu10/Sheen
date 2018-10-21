@@ -8,15 +8,15 @@ npm install sheen10
 
 - config //config files
     - default.js    
-- controller     //controller (router)
+- controller     
     - index.js  
-- schedule      //scheduling tasks
+- schedule      
     - test.js  
-- models       //database
+- models       
     - index.js  
-- public // web resources
-- views  // html templates
-- lib // core of the web framework
+- public 
+- views  
+- lib 
     - controller.js
     - db.js
     - index.js
@@ -24,5 +24,5 @@ npm install sheen10
     - main.js
     - schedule.js
     - utils.js
-- app.js    //init file
-- index.js  //entrance to the project
+- app.js    
+- index.js  
