@@ -8,11 +8,11 @@ npm install sheen10
 
 - config //config files
     - default.js    
-- controller    //controller (router)
+- controller     //controller (router)
     - index.js  
-- schedule  //scheduling tasks
+- schedule      //scheduling tasks
     - test.js  
-- models //database
+- models       //database
     - index.js  
 - public // web resources
 - views  // html templates
