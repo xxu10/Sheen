@@ -31,4 +31,4 @@ npm install sheen10
 
 The index.js is the entrance to the framework, you can finish basic routing under the "controller" file, and just like most of the web frameworks, "models" is used for connection to database, "views" is used for templates, "public" for web resources. The default port is 3001.
 
-[](https://github.com/xxu10/sheen/blob/master/running.png)
+![](https://github.com/xxu10/sheen/blob/master/running.png)
